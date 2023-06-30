@@ -3,7 +3,7 @@
 
 - 🔭 Desenvolvendo uma plataforma para a **Associação Famílias Especiais de Londrina**
 
-- 🌱 Aprendendo **Desenvolvimento Mobile**
+- 🌱 Aprendendo **Magento**
 
 - 📫 Contato **jefshimoda@edu.unifil.br**
 
